@@ -5,6 +5,10 @@ module.exports = {
     extend: {
       backgroundImage: {
         "hero-pattern": "url('/img/ayto.jpeg')",
+        opacity: 0.5,
+      },
+      colors: {
+        "lila-claro": "#7C5CDA",
       },
     },
   },
