@@ -53,4 +53,8 @@
     font-family: "TrebuchetMS";
     @apply text-lila-claro text-3xl pr-20;
   }
+
+  .social-media {
+    @apply flex justify-center space-x-4 mt-2;
+  }
 }
