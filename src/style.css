@@ -57,4 +57,20 @@
   .social-media {
     @apply flex justify-center space-x-4 mt-2;
   }
+
+  .container {
+    @apply mt-10 mb-8 max-w-screen-lg mx-auto;
+  }
+
+  .caja-principal {
+    @apply flex justify-around mt-4;
+  }
+
+  .caja-secundaria {
+    @apply border-4 border-yellow-500 w-1/4 p-4 h-48 mx-4;
+  }
+
+  .caja-imagen {
+    @apply object-contain h-full w-full;
+  }
 }
