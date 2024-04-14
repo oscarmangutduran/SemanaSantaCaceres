@@ -17887,7 +17887,7 @@ video {
 }
 
 .bg-hero-pattern {
-  background-image: url('/img/cruz.jpg');
+  background-image: url('/img/cruz.avif');
 }
 
 .bg-opacity {
@@ -48667,7 +48667,7 @@ video {
   }
 
   .sm\:bg-hero-pattern {
-    background-image: url('/img/cruz.jpg');
+    background-image: url('/img/cruz.avif');
   }
 
   .sm\:bg-opacity {
@@ -79091,7 +79091,7 @@ video {
   }
 
   .md\:bg-hero-pattern {
-    background-image: url('/img/cruz.jpg');
+    background-image: url('/img/cruz.avif');
   }
 
   .md\:bg-opacity {
@@ -109515,7 +109515,7 @@ video {
   }
 
   .lg\:bg-hero-pattern {
-    background-image: url('/img/cruz.jpg');
+    background-image: url('/img/cruz.avif');
   }
 
   .lg\:bg-opacity {
@@ -139939,7 +139939,7 @@ video {
   }
 
   .xl\:bg-hero-pattern {
-    background-image: url('/img/cruz.jpg');
+    background-image: url('/img/cruz.avif');
   }
 
   .xl\:bg-opacity {
@@ -170363,7 +170363,7 @@ video {
   }
 
   .\32xl\:bg-hero-pattern {
-    background-image: url('/img/cruz.jpg');
+    background-image: url('/img/cruz.avif');
   }
 
   .\32xl\:bg-opacity {
