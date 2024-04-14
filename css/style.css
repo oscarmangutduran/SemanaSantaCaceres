@@ -722,7 +722,6 @@ video {
   border-width: 4px;
   --tw-border-opacity: 1;
   border-color: rgba(253, 230, 138, var(--tw-border-opacity));
-  padding: 1rem;
 }
 
 .caja-imagen {
@@ -730,6 +729,8 @@ video {
   width: 100%;
   -o-object-fit: contain;
      object-fit: contain;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .sr-only {

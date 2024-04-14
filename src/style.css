@@ -66,10 +66,10 @@
   }
 
   .caja-secundaria {
-    @apply border-4 border-yellow-200 w-1/4 p-4 h-48 mx-4;
+    @apply border-4 border-yellow-200 w-1/4  h-48 mx-4;
   }
 
   .caja-imagen {
-    @apply object-contain h-full w-full;
+    @apply object-contain object-cover h-full w-full;
   }
 }
