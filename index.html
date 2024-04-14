@@ -12,17 +12,26 @@
     <script src="js/script.js"></script>
   </head>
   <body class="bg-hero-pattern bg-cover h-screen">
-    <header id="header" class="h-20 bg-black flex justify-between items-center">
-      <span class="texto1-cabecera">Semana Santa Cacereña</span>
-      <span class="flex justify-center items-center animate-pulse">
-        <a href="#">
-          <img src="img/union.png" alt="Logo" class="h-16 w-16" />
-        </a>
-      </span>
-      <div class="flex items-center">
-        <span class="texto2-cabecera">Vive la pasión</span>
+    <header id="header" class="h-20 bg-black flex flex-col justify-center items-center sm:flex-row sm:justify-between">
+      <span class="texto1-cabecera text-lila-claro text-2xl sm:text-3xl sm:pl-8 hidden sm:block">Semana Santa Cacereña</span>
+      <div class="flex justify-center items-center animate-pulse sm:hidden">
+          <a href="#">
+              <img src="img/union.png" alt="Logo" class="h-16 w-16" />
+          </a>
       </div>
-    </header>
+      <div class="hidden sm:flex justify-center items-center flex-grow">
+          <a href="#">
+              <img src="img/union.png" alt="Logo" class="h-16 w-16" />
+          </a>
+      </div>
+      <span class="texto2-cabecera text-lila-claro text-2xl sm:text-3xl sm:pr-8 hidden sm:block">Vive la pasión</span>
+  </header>
+  
+
+  
+  
+  
+  
 
     <div id="container" class="container">
       <!-- Primera fila -->

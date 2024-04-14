@@ -47,11 +47,10 @@
 @layer components {
   .texto1-cabecera {
     font-family: "TrebuchetMS";
-    @apply trebuchet text-lila-claro text-3xl pl-8;
   }
+
   .texto2-cabecera {
     font-family: "TrebuchetMS";
-    @apply text-lila-claro text-3xl pr-20;
   }
 
   .social-media {

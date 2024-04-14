@@ -682,21 +682,10 @@ video {
 
 .texto1-cabecera {
   font-family: "TrebuchetMS";
-  font-family: "TrebuchetMS";
-  padding-left: 2rem;
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-  --tw-text-opacity: 1;
-  color: rgba(124, 92, 218, var(--tw-text-opacity));
 }
 
 .texto2-cabecera {
   font-family: "TrebuchetMS";
-  padding-right: 5rem;
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-  --tw-text-opacity: 1;
-  color: rgba(124, 92, 218, var(--tw-text-opacity));
 }
 
 .social-media {
